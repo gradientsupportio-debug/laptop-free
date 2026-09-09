@@ -1,0 +1,11 @@
+{
+  "name": "free-student-laptops",
+  "version": "1.0.0",
+  "description": "Google Ads optimized, mobile-first website for student laptop grant initiative",
+  "scripts": {
+    "start": "node local-server.js"
+  },
+  "keywords": ["student-laptops", "education-grant", "google-ads", "adsense"],
+  "author": "",
+  "license": "ISC"
+}
